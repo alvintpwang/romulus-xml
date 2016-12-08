@@ -4085,6 +4085,10 @@
 		<default>0</default>
 	</attribute>
 	<attribute>
+		<id>FABRIC_GROUP_ID</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
 		<id>FAPI_NAME</id>
 		<default></default>
 	</attribute>
@@ -4741,10 +4745,6 @@
 	</attribute>
 	<attribute>
 		<id>FABRIC_CHIP_ID</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>FABRIC_GROUP_ID</id>
 		<default></default>
 	</attribute>
 	<attribute>
@@ -31349,6 +31349,10 @@
 	</attribute>
 	<attribute>
 		<id>FABRIC_CHIP_ID</id>
+		<default>1</default>
+	</attribute>
+	<attribute>
+		<id>FABRIC_GROUP_ID</id>
 		<default>0</default>
 	</attribute>
 	<attribute>
